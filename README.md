@@ -10,13 +10,13 @@ Full-stack multi-vendor marketplace frontend built with React.js, Vite, and Tail
 ## Screenshots
 
 ### Homepage
-![Homepage](./screenshots/home.png)
+![Homepage](./home.png)
 
 ### Products Listing
-![Products](./screenshots/products.png)
+![Products](./products.png)
 
 ### Product Detail
-![Product Detail](./screenshots/product-detail.png)
+![Product Detail](./product-detail.png)
 
 ---
 
